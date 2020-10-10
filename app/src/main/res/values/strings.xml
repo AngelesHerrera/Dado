@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Numero aleatorio</string>
+    <string name="str_button">Lanzar</string>
+    <string name="str_contador">2</string>
+</resources>
